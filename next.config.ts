@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  images: {
+    domains: ['i.scdn.co'], // 👈 dominio para imágenes de Spotify
+  },
 };
 
 export default nextConfig;

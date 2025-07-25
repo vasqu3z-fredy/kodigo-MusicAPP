@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Caminando",
+    "artist": "Los Auténticos",
+    "image": "https://picsum.photos/300?random=1"
+  },
+  {
+    "id": 2,
+    "title": "Kodigo Freestyle",
+    "artist": "Kodigo Beats",
+    "image": "https://picsum.photos/300?random=2"
+  },
+  {
+    "id": 3,
+    "title": "Node Dreams",
+    "artist": "NPM Flow",
+    "image": "https://picsum.photos/300?random=3"
+  }
+]
